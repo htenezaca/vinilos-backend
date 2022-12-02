@@ -1,0 +1,7 @@
+runtime: nodejs12
+env_variables:
+  POSTGRES_DB: "database-vinilos"
+  POSTGRES_USER: "postgres"
+  POSTGRES_PASSWORD: "cloud"
+
+service: service1
