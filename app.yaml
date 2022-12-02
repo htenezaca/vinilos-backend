@@ -4,4 +4,4 @@ env_variables:
   POSTGRES_USER: "postgres"
   POSTGRES_PASSWORD: "cloud"
 
-service: service1
+service: default
